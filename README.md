@@ -1,9 +1,9 @@
 # IOT
 Components used:
->Arduino Software -to run the embedded C program
->Arduino UNO
->Atmega273 IC
->Gas Detector
->LED's
->Buzzer
->Connecting pins
+1.Arduino Software -to run the embedded C program
+2.Arduino UNO
+3.Atmega273 IC
+4.Gas Detector
+5.LED's
+6.Buzzer
+7.Connecting pins
